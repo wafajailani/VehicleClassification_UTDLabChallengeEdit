@@ -13,9 +13,9 @@ Hello! This is my submission for the Coding Challenge at the UTD AI Safety Lab S
   + Plotted the highest energy (batch 150 ) loss. 
 
 **TL;DR**
-+Source Code: vehicle_classifier.py
-+Output: vClassifier_output.txt
-+Loss V. Epoch Curve: Loss V Epoch Curve - Vehicle Classification - UTD AI Safety Summer 2026 ResearchLab Coding Challenge Submission
++ Source Code: vehicle_classifier.py
++ Output: vClassifier_output.txt
++ Loss V. Epoch Curve: Loss V Epoch Curve - Vehicle Classification - UTD AI Safety Summer 2026 ResearchLab Coding Challenge Submission
 
 
 Code Written By: Wafa Jailani
