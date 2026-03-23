@@ -15,7 +15,7 @@ Hello! This is my submission for the Coding Challenge at the UTD AI Safety Lab S
 **TL;DR**
 + Source Code: vehicle_classifier.py
 + Output: vClassifier_output.txt
-+ Loss V. Epoch Curve: Loss V Epoch Curve - Vehicle Classification - UTD AI Safety Summer 2026 ResearchLab Coding Challenge Submission
++ Loss V. Epoch Curve: Loss V Epoch Curve - Vehicle Classification - UTD AI Safety Summer 2026 Research Lab Coding Challenge Submission(1).pdf
 
 
 Code Written By: Wafa Jailani
